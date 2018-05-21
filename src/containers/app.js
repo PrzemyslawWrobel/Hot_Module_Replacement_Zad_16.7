@@ -1,6 +1,6 @@
 import React from 'react';
 import uuid from 'uuid';
-import style from './css/App.css';
+import style from '../css/App.css';
 import Title from '../components/Title';
 import Form from '../components/TodoForm';
 import List from '../components/TodoList';
